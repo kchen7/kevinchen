@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="https://kchen7.github.io/kevinchen//feed.xml" rel="self" type="application/atom+xml" /><link href="https://kchen7.github.io/kevinchen//" rel="alternate" type="text/html" /><updated>2020-04-16T20:14:21+00:00</updated><id>https://kchen7.github.io/kevinchen//feed.xml</id><title type="html">Kevin Chen</title><subtitle>A blog about technology and stuff related</subtitle><entry><title type="html">:ramen: Indigo, minimalist jekyll theme</title><link href="https://kchen7.github.io/kevinchen//indigo-jekyll-theme/" rel="alternate" type="text/html" title=":ramen: Indigo, minimalist jekyll theme" /><published>2016-01-23T22:10:00+00:00</published><updated>2016-01-23T22:10:00+00:00</updated><id>https://kchen7.github.io/kevinchen//indigo-jekyll-theme</id><content type="html" xml:base="https://kchen7.github.io/kevinchen//indigo-jekyll-theme/">&lt;p&gt;Example of project - Indigo Minimalist Jekyll Template - &lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Demo&lt;/a&gt;. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;What has inside?&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gulp&lt;/li&gt;
+  &lt;li&gt;BrowserSync&lt;/li&gt;
+  &lt;li&gt;Stylus&lt;/li&gt;
+  &lt;li&gt;SVG&lt;/li&gt;
+  &lt;li&gt;Travis&lt;/li&gt;
+  &lt;li&gt;No JS&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/speed/pagespeed/insights/?url=http%3A%2F%2Fsergiokopplin.github.io%2Findigo%2F&quot;&gt;98/100&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://sergiokopplin.github.io/indigo/&quot;&gt;Check it out&lt;/a&gt; here.
+If you need some help, just &lt;a href=&quot;http://github.com/sergiokopplin/indigo/issues&quot;&gt;tell me&lt;/a&gt;.&lt;/p&gt;</content><author><name></name></author><category term="project" /><category term="jekyll" /><summary type="html">Example of project - Indigo Minimalist Jekyll Template - Demo. This is a simple and minimalist template for Jekyll for those who likes to eat noodles.</summary></entry></feed>
