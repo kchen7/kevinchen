@@ -7,7 +7,6 @@ tag:
 headerImage: false
 # image: #put path to header image
 projects: true
-hidden: true # don't count this post in blog pagination
 description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
 author: kevinchen
