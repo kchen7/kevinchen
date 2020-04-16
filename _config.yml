@@ -105,4 +105,4 @@ compress_html:
         - development
         - stage
 
-exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md", "node_modules", "vendor"]
+exclude: ["travis.sh", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md", "node_modules", "vendor"]
