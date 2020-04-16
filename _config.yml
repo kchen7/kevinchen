@@ -81,8 +81,7 @@ animation: true
 
 # add default values to specific pages or layouts
 defaults:
-  -
-    scope:
+  - scope:
       path: "" # an empty string here means all files in the project
       layout: "post"
     values:
@@ -96,7 +95,6 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-admin
-  - jekyll-fontawesome-svg
 
 
 jekyll-mentions:
