@@ -49,13 +49,6 @@ github: kchen7
 # lanyrd: mylanyrd
 email: kchen7@seas.upenn.edu
 
-authors:
-    kevinchen:
-        name: Kevin Chen
-        bio: A placeholder bio for later
-        picture: assets/images/profile.jpg
-        #twitter: johndoe
-
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
 # normal = 560px / large = 810px
