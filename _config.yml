@@ -3,7 +3,7 @@ name: Kevin Chen
 bio: A placeholder bio for me!
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: A blog about technology and stuff related # TODO: what is this? delete?
 
 # if it's an external image, update below for true
 # better with square images
@@ -37,7 +37,7 @@ permalink: /:title/
 linkedin: kevinchen929
 # youtube: myyoutube
 # spotify: myspotify
-github: kchen7
+# github: kchen7 # MAYBE INCLUDE THIS ONE???
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -86,7 +86,7 @@ defaults:
     values:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
-      hidden: false
+      hidden: false # TODO: delete this line? 
 
 plugins:
   - jekyll-seo-tag
