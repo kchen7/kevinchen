@@ -37,7 +37,8 @@ permalink: /:title/
 linkedin: kevinchen929
 # youtube: myyoutube
 # spotify: myspotify
-# github: kchen7 # MAYBE INCLUDE THIS ONE???
+github: kchen7
+showgithub: false # dunno why, but website errors when github is commented out, so I added different variable
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -86,7 +87,7 @@ defaults:
     values:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
-      hidden: false # TODO: delete this line? 
+      hidden: false # TODO: what is this? delete? 
 
 plugins:
   - jekyll-seo-tag
