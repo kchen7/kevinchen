@@ -3,18 +3,17 @@ name: Kevin Chen
 bio: A placeholder bio for me!
 
 # twitter summary info
-description: A blog about technology and stuff related # TODO: what is this? delete?
+description: A page about Kevin! # TODO: what is this? delete?
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
 picture: assets/images/profile.jpg
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
-resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-external: false
+resume-url: assets\KChen Resume 2020.1.pdf
 
 url: https://kchen7.github.io/kevinchen
 
@@ -87,7 +86,7 @@ defaults:
     values:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
-      hidden: false # TODO: what is this? delete? 
+      hidden: false # TODO: what is this? delete?
 
 plugins:
   - jekyll-seo-tag
