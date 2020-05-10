@@ -3,7 +3,7 @@ name: Kevin Chen
 bio: A placeholder bio for me!
 
 # twitter summary info
-description: A page about Kevin! # TODO: what is this? delete?
+description: A page about Kevin! # TODO: what is this? Error when removed so :shrug:
 
 # if it's an external image, update below for true
 # better with square images
@@ -91,7 +91,6 @@ defaults:
 plugins:
   - jekyll-seo-tag
   - jekyll-gist
-  - jekyll-feed
   - jemoji
   - jekyll-admin
 
