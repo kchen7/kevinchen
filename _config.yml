@@ -3,7 +3,7 @@ name: Kevin Chen
 bio: A placeholder bio for me!
 
 # twitter summary info
-description: A page about Kevin! # TODO: what is this? Error when removed so :shrug:
+description: A page about Kevin!
 
 # if it's an external image, update below for true
 # better with square images
@@ -18,15 +18,6 @@ resume-url: assets\KChen Resume 2020.1.pdf
 url: https://kchen7.github.io/kevinchen
 
 permalink: /:title/
-
-# To enable google analytics, supply your token below
-# analytics-google: 'UA-MYANALYTICS'
-
-
-# To enable piwik tracking, supply your url & site ID below
-# analytics-piwik-url: 'piwik.my-host.com'
-# analytics-piwik-id: 1
-
 
 # if you don't have any of social below, comment the line
 # facebook: myfacebook
