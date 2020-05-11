@@ -4,9 +4,9 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/assets/images/helmetPic.jpg)
 
-<h2>About Me</h2>
+<h2>Hi, I'm Kevin!</h2>
 
-Hi! I'm a senior at the University of Pennsylvania, currently working towards
+I'm a senior at the University of Pennsylvania, currently working towards
 an MSE in Electrical Engineering and BSE in Computer Engineering.
 Outside of classes, I spend most of my time with
 [Penn Electric Racing]({{ site.url }}/Penn-Electric-Racing) (PER),
