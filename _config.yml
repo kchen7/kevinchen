@@ -1,6 +1,7 @@
 # main text of home
 name: Kevin Chen
-bio: A placeholder bio for me!
+intro: I'm a senior at the University of Pennsylvania, studying Electrical and Computer Engineering. Welcome to my page!
+bio: Senior at the University of Pennsylvania, studying Electrical and Computer Engineering
 
 # twitter summary info
 description: A page about Kevin!
@@ -44,12 +45,15 @@ email: kchen7@seas.upenn.edu
 # normal = 560px / large = 810px
 width: normal
 
-# if you don't need projects, comment the *projects* configs below
+# what pages to display?
 projects: true
-
-# if you don't need "about" or "blog", comment them out below
 about: true
 # blog: true
+
+# do you want some animations?
+animation: true
+
+####################### CUSTOMIZE POSTS #######################
 
 # do you want to show the "read time" of the posts?
 read-time: false
@@ -61,10 +65,9 @@ show-tags: true
 related: true
 
 # show author block at the end of a post ?
-show-author: true
+show-author: false
 
-# do you want some animations?
-animation: true
+##############################################################
 
 # add default values to specific pages or layouts
 defaults:
@@ -81,7 +84,6 @@ plugins:
   - jekyll-gist
   - jemoji
   - jekyll-admin
-
 
 jekyll-mentions:
     base_url: https://github.com
