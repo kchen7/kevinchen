@@ -9,7 +9,7 @@ layout: page
 I'm a senior at the University of Pennsylvania, currently working towards
 an MSE in Electrical Engineering and BSE in Computer Engineering.
 Outside of classes, I spend most of my time with
-[Penn Electric Racing]({{site.url}}/Penn-Electric-Racing) (PER),
+[Penn Electric Racing](./Penn-Electric-Racing) (PER),
 where I lead the hardware team in designing, reviewing, and testing our
 custom printed circuit boards. My experience on PER is what sparked my
 interested in electronics design.
