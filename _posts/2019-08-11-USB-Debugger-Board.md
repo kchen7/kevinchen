@@ -24,7 +24,7 @@ functionality onto one board. Second, Blueberry was to be a single board
 that the firmware team could use to debug the boards in each product.
 
 ## Requirements
-![Annotated Screenshot](/assets/images/blueberry/annotated.png)
+![Annotated Screenshot](../assets/images/blueberry/annotated.png)
 
 The main input to the board is USB, which connects to the TUSB2046I, a
 4-Port USB hub. One hub output is translated to 4 UART streams on a
@@ -40,4 +40,4 @@ though, is to power the device under test. Blueberry has two power
 outputs: 12V and a programmable voltage. The power consumption for these
 outputs is monitored with the INA226.
 
-![Blueberry](/assets/images/blueberry/blueberry.JPG)
+![Blueberry](../assets/images/blueberry/blueberry.JPG)
