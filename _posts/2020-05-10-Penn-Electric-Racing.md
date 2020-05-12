@@ -16,4 +16,3 @@ CONTENT IN PROGRESS :)
 
 Test
 ![Profile Image](/assets/images/helmetPic.jpg)
-![Profile Image][/assets/images/helmetPic.jpg]
