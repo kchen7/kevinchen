@@ -20,8 +20,8 @@ I designed this board for an internship program. Broadly, this board
 (playfully nicknamed "Blueberry") had two goals. First, the old testing
 station on the manufacturing line was messy as it contained multiple
 boards. Blueberry aimed to simplfy the station by consolidating all the
-functionality onto one board. Second, Blueberry was to be a single board
-that the firmware team could use to debug the boards in each product.
+functionality onto one board. Second, Blueberry was to be a single tool
+that the firmware team could use to debug the PCBs in each product.
 
 ## Requirements
 ![Annotated Screenshot](../assets/images/blueberry/annotated.png)

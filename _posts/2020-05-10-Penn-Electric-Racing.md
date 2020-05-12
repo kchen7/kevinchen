@@ -13,5 +13,3 @@ externalLink: false
 ---
 
 CONTENT IN PROGRESS :)
-
-Test
