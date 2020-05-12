@@ -47,7 +47,7 @@ width: normal
 # what pages to display?
 projects: true
 about: true
-# blog: true
+blog: false
 
 # do you want some animations?
 animation: true
@@ -58,10 +58,10 @@ animation: true
 read-time: false
 
 # do you want to show the "tags" inside the posts?
-show-tags: true
+show-tags: false
 
 # related posts inside a post?
-related: true
+related: false
 
 # show author block at the end of a post ?
 show-author: false

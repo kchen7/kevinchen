@@ -2,14 +2,14 @@
 title: About
 layout: page
 ---
-![Profile Image]({{ site.url }}/assets/images/helmetPic.jpg)
+![Profile Image](/assets/images/helmetPic.jpg)
 
 <h2>Hi, I'm Kevin!</h2>
 
 I'm a senior at the University of Pennsylvania, currently working towards
 an MSE in Electrical Engineering and BSE in Computer Engineering.
 Outside of classes, I spend most of my time with
-[Penn Electric Racing]({{ site.url }}/Penn-Electric-Racing) (PER),
+[Penn Electric Racing](/Penn-Electric-Racing) (PER),
 where I lead the hardware team in designing, reviewing, and testing our
 custom printed circuit boards. My experience on PER is what sparked my
 interested in electronics design.
@@ -20,7 +20,7 @@ Introduction to Electrical and Systems Engineering and Head TA for Discrete Math
 I write tests about circuits for *Science Olympiad at UPenn*, a national
 high school competition. Finally, I enjoy guiding underclassmen through course
 selection, putting together, for instance, this
-[document]({{ site.url }}/assets/WhyCMPE.pdf) detailing my thoughts about
+[document](/assets/WhyCMPE.pdf) detailing my thoughts about
 my major.
 
 In my free time, I like origami, skiing, and watching musicals!
