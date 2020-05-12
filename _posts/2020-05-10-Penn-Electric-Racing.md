@@ -13,3 +13,6 @@ externalLink: false
 ---
 
 CONTENT IN PROGRESS :)
+
+Test
+![Profile Image](/assets/images/helmetPic.jpg)
