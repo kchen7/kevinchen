@@ -40,4 +40,4 @@ though, is to power the device under test. Blueberry has two power
 outputs: 12V and a programmable voltage. The power consumption for these
 outputs is monitored with the INA226.
 
-![Blueberry](../assets/images/blueberry/blueberry.JPG)
+![Blueberry](../assets/images/blueberry/blueberry.jpg)
