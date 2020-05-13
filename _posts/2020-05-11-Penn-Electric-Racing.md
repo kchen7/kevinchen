@@ -9,7 +9,7 @@ tag:
   - power
 headerImage: true
 image: ../assets/images/per/logo.png
-description: "This documents my experiences with Penn Electric Racing."
+description: "This page documents my experiences with Penn Electric Racing"
 projects: true
 category: project
 externalLink: false

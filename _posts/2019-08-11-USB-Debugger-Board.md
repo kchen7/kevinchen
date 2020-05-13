@@ -8,7 +8,7 @@ tag:
   - stm32
 headerImage: false
 #image:
-description: "This board was designed as a debugging board for an internship."
+description: "A board designed to debug products for an internship"
 projects: true
 category: project
 externalLink: false
@@ -40,4 +40,4 @@ though, is to power the device under test. Blueberry has two power
 outputs: 12V and a programmable voltage. The power consumption for these
 outputs is monitored with the INA226.
 
-![Blueberry](../assets/images/blueberry/blueberry.JPG)
+![Blueberry](../assets/images/blueberry/blueberry.jpg)
