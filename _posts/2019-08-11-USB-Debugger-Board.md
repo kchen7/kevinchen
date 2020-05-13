@@ -5,7 +5,7 @@ date: 2019-08-11 11:11
 tag:
   - altium
   - USB
-  - stm32f1
+  - stm32
 headerImage: false
 #image:
 description: "This board was designed as a debugging board for an internship."
