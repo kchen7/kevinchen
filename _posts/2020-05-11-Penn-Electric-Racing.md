@@ -5,8 +5,6 @@ date: 2020-05-11 11:11
 tag:
   - altium
   - stm32
-  - can
-  - power
 headerImage: true
 image: ../assets/images/per/logo.png
 description: "This page documents my experiences with Penn Electric Racing"

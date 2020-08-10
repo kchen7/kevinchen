@@ -4,7 +4,6 @@ layout: post
 date: 2019-08-11 11:11
 tag:
   - altium
-  - USB
   - stm32
 headerImage: false
 #image:
