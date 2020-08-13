@@ -23,6 +23,15 @@ selection, putting together, for instance, this
 [document](/assets/WhyCMPE.pdf) detailing my thoughts about
 my major.
 
+Over the past two summers, I've had the amazing opportunity to intern at
+<a href="https://www.relativityspace.com/" target="_blank" rel="noopener noreferrer">Relativity Space</a>
+ and
+<a href="https://www.latch.com/" target="_blank" rel="noopener noreferrer">Latch</a>.
+At Relativity Space, I helped move the
+avionics team closer to first flight by designing the low voltage
+battery management system. At Latch, I designed a USB Debugger board
+for the firmware team and factory test stations. 
+
 In my free time, I like origami, skiing, and watching musicals!
 
 <!--

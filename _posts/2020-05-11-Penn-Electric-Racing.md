@@ -31,7 +31,7 @@ have held the record for fastest acceleration time. More information about the t
             a LCD dashboard, an e-fused power distribution unit, and
             a powertrain control module.
         </p>
-        <p> As the electrical lead, I managed the timelines for all of the
+        <p> As the electrical lead, I managed the timelines for and reviewed all of these
             boards. However, I worked most closely with designing the
             Battery Management System. More details are included below.
         </p>

@@ -13,4 +13,6 @@ externalLink: false
 archive: true
 ---
 
-CONTENT TO COME :) 
+Here is a selection of the projects that I worked on for courses at Penn!
+
+CONTENT TO COME :)
