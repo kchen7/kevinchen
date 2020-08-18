@@ -6,9 +6,9 @@ tag:
   - mbed
   - c
   - java
-  - Verilog
-headerImage: false
-#image:
+  - verilog
+headerImage: true
+image: ../assets/images/archive/seas-logo.png
 description: "An archive of projects from various courses"
 projects: true
 category: project
@@ -19,22 +19,25 @@ archive: true
 Here are some of the other miscellaneous projects that I worked on at
 Penn! They are listed roughly in reverse chronological order.  
 
-## Little Computer 4 (LC4)
-CONTENT TO COME :)
+## Little Computer 4 (LC4) - Verilog, C
+LC4 was a basic instruction set architecture (ISA), based on <a href="https://en.wikipedia.org/wiki/Little_Computer_3" target="_blank" rel="noopener noreferrer"> LC-3</a>, developed for use as an educational tool at Penn. In Introduction to Computer Architecture, the final projects were to build an assembler and compiler for this ISA written in C. The compiler was written for a made up language called J, loosely inspired by Forth.
 
-## ESE370 Project Description  
-CONTENT TO COME :)
+In the follow up class, Computer Organization and Design, a few processors were designed using verilog that could run LC4. Each processor increased in complexity until the final project had a superscalar pipelined datapath. It was fully bypassed, but always predicted branches as not taken. This was my favorite computer science final project!
 
-## Embedded Systems Laboratory
-CONTENT TO COME :)
+## Science Olympiad at UPenn 
+Technically not a course, but I created these labs for <a href="http://pennscienceolympiad.org/" target="_blank" rel="noopener noreferrer"> Science Olympiad at UPenn</a> (SOUP). During the lab portion of the circuit lab event, high school students were supposed to analyze circuits using a multimeter and a stopwatch in order determine the values of the mystery resistors. These circuits include operational amplifier configurations, RC circuits, and various resistor configurations. It's club policy to only release questions to attendees, but pictures of the circuits are shown below.
 
-## Science Olympiad at UPenn
-CONTENT TO COME :)
+![SOUP](../assets/images/archive/soup.png)
 
-## PCB Snake
+## Synchronous FIFO Queue - 22nm Process Design
+This was the final project for Circuit-Level Modeling, Design and Optimization for Digital Systems. It was designed in Electric VLSI and I worked with Caroline Leng. The queue was to hold 4bit wide elements and have a maximum capacity of 16. The project consisted of a few parts.
+
+First a 6T SRAM memory cell was designed. Combining these cells with precharge circuitry and column drivers made from tri-state buffers, a 64bit SRAM was created. D Flip-Flop registers were added to synchronize inputs and outputs, and a decoder was added to specify the memory location to be accessed. Finally, counters were added to move the pointers tracking the front and back of the FIFO on each enqueue or dequeue.
+
+## Snake PCB - Java
 <div class="side-by-side">
     <div class="toleft">
-        <p> This java project was a variation of the classic game Snake, themed around a two layer PCB. The snake can travel on both the top and bottom layers, and objects must be on the same side to interact. Yes, that means the snake can cross over itself! The ICs give 1 length and increase the score by 1, while capacitors give 1 point but increase the score by 3. However, the capacitors will disappear so get them quickly!
+        <p> This project was a variation of the classic game Snake, themed as a two layer PCB. The snake can travel on both the top and bottom layers, and objects must be on the same side to interact. Yes, that means the snake can cross over itself! The ICs give 1 length and increase the score by 1, while capacitors give 1 point but increase the score by 3. However, the capacitors disappear so be quick!
         </p>
     </div>
     <div class="toright">
@@ -42,7 +45,8 @@ CONTENT TO COME :)
     </div>
 </div>
 
-
-## Other considerations for software?
-- CIS 350
-- CIS 541
+## Other Projects - To Be Documented
+- CIS 350, BikeAround - a web and android app with a Mongo DB Database
+- CIS 541, Adaptive Cruise Control Simulator, Demonstrating RTOS
+- ESE 350, other miscellaneous embedded projects
+- CIS 121, Graph Algorithm Implementations
