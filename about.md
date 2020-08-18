@@ -15,6 +15,15 @@ custom printed circuit boards. My experience on PER is what sparked my
 interested in electronics design.
 <!-- Especially interested in insert specific stuff, fits here -->
 
+Over the past two summers, I've had the amazing opportunity to intern at
+<a href="https://www.relativityspace.com/" target="_blank" rel="noopener noreferrer">Relativity Space</a>
+ and
+<a href="https://www.latch.com/" target="_blank" rel="noopener noreferrer">Latch</a>.
+At Relativity Space, I helped move the
+avionics team closer to first flight by designing the low voltage
+battery management system. At Latch, I designed a USB Debugger board
+for the firmware team and factory test stations.
+
 At Penn, I've also been a TA, test writer, and peer advisor. I was a TA for
 Introduction to Electrical and Systems Engineering and Head TA for Discrete Mathematics.
 I write tests about circuits for *Science Olympiad at UPenn*, a national
@@ -23,16 +32,7 @@ selection, putting together, for instance, this
 [document](/assets/WhyCMPE.pdf) detailing my thoughts about
 my major.
 
-Over the past two summers, I've had the amazing opportunity to intern at
-<a href="https://www.relativityspace.com/" target="_blank" rel="noopener noreferrer">Relativity Space</a>
- and
-<a href="https://www.latch.com/" target="_blank" rel="noopener noreferrer">Latch</a>.
-At Relativity Space, I helped move the
-avionics team closer to first flight by designing the low voltage
-battery management system. At Latch, I designed a USB Debugger board
-for the firmware team and factory test stations. 
-
-In my free time, I like origami, skiing, and watching musicals!
+In my free time, I like to bake, fold origami, and watch musicals!
 
 <!--
 <h2>Skills</h2>
