@@ -37,7 +37,7 @@ have held the record for fastest acceleration time. More information about the t
         </p>
     </div>
     <div class="toright">
-        <img class="image" src="../assets/images/per/gerbers.png" alt="gerbers">
+        <img class="image" src="../assets/images/per/gerbers.png" alt="gerbers" width="300">
         <!-- <figcaption class="caption">Board Gerbers (2018)</figcaption> -->
     </div>
 </div>
