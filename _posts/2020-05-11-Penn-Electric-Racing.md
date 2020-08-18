@@ -83,3 +83,4 @@ communicates with the rest of the car using CAN.
 
 ---
 ![REV 5](../assets/images/per/car.jpg "Me sitting in REV 5!")
+<div align="center"><em>I Finally Got To Drive!</em></div>
