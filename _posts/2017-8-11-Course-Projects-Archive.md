@@ -24,12 +24,12 @@ LC4 was a basic instruction set architecture (ISA), based on <a href="https://en
 
 In the follow up class, Computer Organization and Design, a few processors were designed using verilog that could run LC4. Each processor increased in complexity until the final project had a superscalar pipelined datapath. It was fully bypassed, but always predicted branches as not taken. This was my favorite computer science final project!
 
-## Science Olympiad at UPenn 
+## Science Olympiad at UPenn
 Technically not a course, but I created these labs for <a href="http://pennscienceolympiad.org/" target="_blank" rel="noopener noreferrer"> Science Olympiad at UPenn</a> (SOUP). During the lab portion of the circuit lab event, high school students were supposed to analyze circuits using a multimeter and a stopwatch in order determine the values of the mystery resistors. These circuits include operational amplifier configurations, RC circuits, and various resistor configurations. It's club policy to only release questions to attendees, but pictures of the circuits are shown below.
 
 ![SOUP](../assets/images/archive/soup.png)
 
-## Synchronous FIFO Queue - 22nm Process Design
+## Synchronous FIFO Queue - VLSI
 This was the final project for Circuit-Level Modeling, Design and Optimization for Digital Systems. It was designed in Electric VLSI and I worked with Caroline Leng. The queue was to hold 4bit wide elements and have a maximum capacity of 16. The project consisted of a few parts.
 
 First a 6T SRAM memory cell was designed. Combining these cells with precharge circuitry and column drivers made from tri-state buffers, a 64bit SRAM was created. D Flip-Flop registers were added to synchronize inputs and outputs, and a decoder was added to specify the memory location to be accessed. Finally, counters were added to move the pointers tracking the front and back of the FIFO on each enqueue or dequeue.
