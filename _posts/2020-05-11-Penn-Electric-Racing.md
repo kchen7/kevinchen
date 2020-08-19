@@ -68,19 +68,13 @@ also monitors the battery at a macro-level, measuring voltage, power draw,
 and insulation. It contains a STM32F7 microcontroller that analyzes the
 data for faults, closing the battery isolation relays only when safe.
 Finally, the motherboard pre-charges the motor controllers on startup and
-communicates with the rest of the car using CAN.
+communicates with the rest of the car using CAN. The CAD and PCB are displayed below. 
 
-<div class="side-by-side">
-    <div class="toleft">
-        <img class="image" src="../assets/images/per/bms-cad.jpg" alt="BMS CAD">
-        <!-- <figcaption class="caption">BMS CAD</figcaption> -->
-    </div>
-    <div class="toright">
-        <img class="image" src="../assets/images/per/bms-pic.jpg" alt="BMS Pic">
-    </div>
-</div>
+![BMS CAD](../assets/images/per/bms-cad.jpg)
 
+![BMS](../assets/images/per/bms-pic.jpg)
 
 ---
+
+<div align="center">Finally getting to drive :)</div>
 ![REV 5](../assets/images/per/car.jpg "Me sitting in REV 5!")
-<div align="center"><em>I Finally Got To Drive!</em></div>
