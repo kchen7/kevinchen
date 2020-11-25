@@ -32,7 +32,7 @@ selection, putting together, for instance, this
 [document](/assets/WhyCMPE.pdf) detailing my thoughts about
 my major.
 
-In my free time, I like to bake, fold origami, and watch musicals!
+In my free time, I like to bake, ski, and watch musicals!
 
 <!--
 <h2>Skills</h2>
