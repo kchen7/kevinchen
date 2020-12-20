@@ -19,8 +19,13 @@ archive: true
 Here are some of the other miscellaneous projects that I worked on at
 Penn! They are listed roughly in reverse chronological order.  
 
+## PennOS and PennShell - C
+At around 15,000 lines of code, PennOS was the largest software project I, with a team of 4 people, worked on at Penn. It was a program that mimicked a UNIX-like operating system, running as a guest OS within a single process on the host OS. PennOS consisted of a priority scheduler, a FAT file system, and a custom shell for user interactions called PennShell. 
+
+My partner and I focused on the kernel side of the project, with him tackling the priority scheduler and me writing UNIX-like kernel and user level functions for use with PennShell. After integrating with the filesystem side of the project, I also worked on various commands typically found in UNIX shells, such as fg, bg and nice. 
+
 ## Little Computer 4 (LC4) - Verilog, C
-LC4 was a basic instruction set architecture (ISA), based on <a href="https://en.wikipedia.org/wiki/Little_Computer_3" target="_blank" rel="noopener noreferrer"> LC-3</a>, developed for use as an educational tool at Penn. In Introduction to Computer Architecture, the final projects were to build an assembler and compiler for this ISA written in C. The compiler was written for a made up language called J, loosely inspired by Forth.
+LC4 was a basic instruction set architecture (ISA), based on <a href="https://en.wikipedia.org/wiki/Little_Computer_3" target="_blank" rel="noopener noreferrer">LC-3</a>, developed for use as an educational tool at Penn. In Introduction to Computer Architecture, the final projects were to build an assembler and compiler for this ISA written in C. The compiler was written for a made up language called J, loosely inspired by Forth.
 
 In the follow up class, Computer Organization and Design, a few processors were designed using verilog that could run LC4. Each processor increased in complexity until the final project had a superscalar pipelined datapath. It was fully bypassed, but always predicted branches as not taken. This was my favorite computer science final project!
 
@@ -46,7 +51,6 @@ First a 6T SRAM memory cell was designed. Combining these cells with precharge c
 </div>
 
 ## Other Projects - To Be Documented
-- CIS 350, BikeAround - a web and android app with a Mongo DB Database
+- CIS 350, BikeAround - a web and android app with a Mongo DB Database for biking around a city
 - CIS 541, Adaptive Cruise Control Simulator, Demonstrating RTOS
 - ESE 350, other miscellaneous embedded projects
-- CIS 121, Graph Algorithm Implementations

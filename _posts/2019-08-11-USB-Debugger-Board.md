@@ -16,7 +16,7 @@ externalLink: false
 
 ## Background
 
-I designed this board for an internship program. Broadly, this board
+I designed this board for an internship program at <a href="https://www.latch.com/" target="_blank" rel="noopener noreferrer">Latch</a>. Broadly, this board
 (playfully nicknamed "Blueberry") had two goals. First, the old testing
 station on the manufacturing line was messy as it contained multiple
 boards. Blueberry aimed to simplfy the station by consolidating all the
