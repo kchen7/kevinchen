@@ -15,7 +15,10 @@ resume: true
 resume-external: false
 resume-url: assets/KChen Resume 2020.9.pdf
 
-url: https://kchen7.github.io/kevinchen
+# Note: both work, but the one set is the one that comes up when 
+# hovering over a url to press!
+# url: https://kchen7.github.io/kevinchen
+url: https://kevinjchen.me
 
 permalink: /:title/
 
