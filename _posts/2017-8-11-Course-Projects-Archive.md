@@ -7,6 +7,7 @@ tag:
   - c
   - java
   - verilog
+  - linux 
 headerImage: true
 image: ../assets/images/archive/seas-logo.png
 description: "An archive of projects from various courses"
@@ -19,10 +20,12 @@ archive: true
 Here are some of the other miscellaneous projects that I worked on at
 Penn! They are listed roughly in reverse chronological order.  
 
-## PennOS and PennShell - C
+## PennOS and PennShell - C, Linux
 At around 15,000 lines of code, PennOS was the largest software project I, with a team of 4 people, worked on at Penn. It was a program that mimicked a UNIX-like operating system, running as a guest OS within a single process on the host OS. PennOS consisted of a priority scheduler, a FAT file system, and a custom shell for user interactions called PennShell. 
 
 My partner and I focused on the kernel side of the project, with him tackling the priority scheduler and me writing UNIX-like kernel and user level functions for use with PennShell. After integrating with the filesystem side of the project, I also worked on various commands typically found in UNIX shells, such as fg, bg and nice. 
+
+To elaborate on PennShell a bit more, it was a prior project in the course in which my partner and I developed a custom Linux shell similar to bash. Some features it included were foreground and background processes, input and output file redirection, n-stage pipelines, and job control. When used with PennOS, the Linux system calls were swapped out for our own user level functions. 
 
 ## Little Computer 4 (LC4) - Verilog, C
 LC4 was a basic instruction set architecture (ISA), based on <a href="https://en.wikipedia.org/wiki/Little_Computer_3" target="_blank" rel="noopener noreferrer">LC-3</a>, developed for use as an educational tool at Penn. In Introduction to Computer Architecture, the final projects were to build an assembler and compiler for this ISA written in C. The compiler was written for a made up language called J, loosely inspired by Forth.
