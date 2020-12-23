@@ -25,7 +25,9 @@ At around 15,000 lines of code, PennOS was the largest software project I, with 
 
 My partner and I focused on the kernel side of the project, with him tackling the priority scheduler and me writing UNIX-like kernel and user level functions for use with PennShell. After integrating with the filesystem side of the project, I also worked on various commands typically found in UNIX shells, such as fg, bg and nice. 
 
-To elaborate on PennShell a bit more, it was a prior project in the course in which my partner and I developed a custom Linux shell similar to bash. Some features it included were foreground and background processes, input and output file redirection, n-stage pipelines, and job control. When used with PennOS, the Linux system calls were swapped out for our own user level functions. 
+![penn-shell test](../assets/images/archive/pennshell.png "penn-shell testing")
+
+To elaborate on PennShell, it was a prior project in the course in which my partner and I developed a custom Linux shell similar to bash. Some features included were foreground and background processes, input and output file redirection, n-stage pipelines, and job control. The test snippet above demonstrates pipelining and redirection. When used with PennOS, the Linux system calls were swapped out for our own user level functions. 
 
 ## Little Computer 4 (LC4) - Verilog, C
 LC4 was a basic instruction set architecture (ISA), based on <a href="https://en.wikipedia.org/wiki/Little_Computer_3" target="_blank" rel="noopener noreferrer">LC-3</a>, developed for use as an educational tool at Penn. In Introduction to Computer Architecture, the final projects were to build an assembler and compiler for this ISA written in C. The compiler was written for a made up language called J, loosely inspired by Forth.
