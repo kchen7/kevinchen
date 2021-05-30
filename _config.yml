@@ -1,6 +1,8 @@
 # main text of home
+# bio2 - to control what appeared on second line for header.html 
 name: Kevin Chen
-bio: Senior studying Electrical and Computer Engineering at the University of Pennsylvania
+bio: Design Verification Engineer at Apple 
+bio2: University of Pennsylvania Alumni (EE, CMPE)
 
 # summary info, shows up when pasting link into messenger, slack, etc
 description: Hi, I'm Kevin!
@@ -39,7 +41,7 @@ showgithub: false # dunno why, but website errors when github is commented out, 
 # medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: kchen7@seas.upenn.edu
+email: kevinchen929@gmail.com
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
