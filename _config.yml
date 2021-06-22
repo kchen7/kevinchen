@@ -1,8 +1,8 @@
 # main text of home
 # bio2 - to control what appeared on second line for header.html 
 name: Kevin Chen
-bio: Design Verification Engineer at Apple 
-bio2: University of Pennsylvania Alumni (EE, CMPE)
+bio: Design Verification at Apple 
+bio2: University of Pennsylvania (EE, CMPE)
 
 # summary info, shows up when pasting link into messenger, slack, etc
 description: Hi, I'm Kevin!
