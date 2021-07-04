@@ -80,7 +80,7 @@ defaults:
     values:
       # setting all post to not hidden by default,
       # can be overridden in the front matter for a specific post
-      hidden: false # TODO: what is this? delete?
+      hidden: false # can hide pages that I don't want to display anymore
 
 plugins:
   - jekyll-seo-tag
