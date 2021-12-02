@@ -16,7 +16,7 @@ At Relativity, I moved the team closer to first flight by designing the low volt
 
 While at Penn, I spent a lot of my time with [Penn Electric Racing](../Penn-Electric-Racing) (PER), where I led the hardware team in designing, reviewing, and testing our custom printed circuit boards. It was my experience with PER that sparked my interest in electronics. In addition, I was the Head TA for Discrete Mathematics and also guided underclassmen through course selection, putting together this [document](/assets/WhyCMPE.pdf) detailing my thoughts about my major.
 
-In my free time, I like to bake, ski, and watch musicals!
+In my free time, I like to play boardgames, bake, ski, and listen to musicals!
 
 <!--
 <h2>Skills</h2>
