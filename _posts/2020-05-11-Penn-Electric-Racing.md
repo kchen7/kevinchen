@@ -75,6 +75,22 @@ communicates with the rest of the car using CAN. The CAD and PCB are displayed b
 ![BMS](../assets/images/per/bms-pic.jpg)
 
 ---
+## PCB Ruler
+
+Inspired by other PCB rulers such as the ones made by Digi-Key or Nvidia,
+I decided to design one for Penn Electric Racing to use as merchandise.
+I opted for a 6" design, rather than 12", for improved portability.
+In addition to being merchandise, I wanted the ruler to be a useful
+resource to members on the hardware team, so it is covered with layout and electrical engineering references: 
+
+![Front of Ruler](../assets/images/per/ruler-front.png)
+
+The PCB was finished with black solder mask and lead-free HASL to
+match Penn Electric Racing's colors. The final product is pictured below!
+
+![Ruler](../assets/images/per/ruler-picture.jpg "End Result")
+
+---
 
 <div align="center">Finally getting to drive :)</div>
 ![REV 5](../assets/images/per/car.jpg "Me sitting in REV 5!")
