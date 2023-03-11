@@ -24,7 +24,7 @@ In the follow up class, Computer Organization and Design, a few processors were 
 
 ![5 stage pipeline](../assets/images/cmpe/pipeline.png "snippet of pipelines")
 
-The CPU was fully bypassed: MX allowed data just calculated by the execute stage to be used immediately, WX allowed for data from 2 cycles ago (executed or loaded) to be used immediately, and WM allowed for data loaded from memory to be stored. Only load-to-use case needed a stall.  The processor alsy "predicts" branches as not taken, flushing on mispredictions rather than always stalling. While the processor did have 2 pipelines, the performance increases were limited. For example, if one execute used the output of another execute, they couldn't be run in parallel. Our design could also only handle one load/store to memory at a time so only one pipeline had that capability. 
+The CPU was fully bypassed: MX allowed data just calculated by the execute stage to be used immediately, WX allowed for data from 2 cycles ago (executed or loaded) to be used immediately, and WM allowed for data loaded from memory to be stored. Only load-to-use case needed a stall. The processor also "predicts" branches as not taken, flushing on mispredictions rather than always stalling. While the processor did have 2 pipelines, the performance increases were limited. For example, if one execute used the output of another execute, they couldn't be run in parallel. Our design could also only handle one load/store to memory at a time so only one pipeline had that capability. 
 
 This was my favorite computer science final project!
 
