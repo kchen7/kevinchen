@@ -6,17 +6,14 @@ layout: page
 
 <h2>Hi, I'm Kevin!</h2>
 
-I recently graduated from the University of Pennsylvania, with an MSE in Electrical Engineering and BSE in Computer Engineering. I am currently at Apple, doing chip-level design verification of Apple's custom processors. 
+I'm an FPGA Verification Engineer at <a href="https://www.hudsonrivertrading.com/" target="_blank" rel="noopener noreferrer">Hudson River Trading</a>. I graduated from the University of Pennsylvania, with an MSE in Electrical Engineering and BSE in Computer Engineering, and was previously doing chip-level design verification of <a href="https://www.apple.com/" target="_blank" rel="noopener noreferrer">Apple</a>'s custom processors. 
 
-In the past, I've had the amazing opportunity to intern at
+While at Penn, I spent a lot of my time with [Penn Electric Racing](../Penn-Electric-Racing) (PER), where I led the hardware team in designing, reviewing, and testing our custom printed circuit boards. In the past, I've also had the opportunities to intern at
 <a href="https://www.relativityspace.com/" target="_blank" rel="noopener noreferrer">Relativity Space</a>
  and
 <a href="https://www.latch.com/" target="_blank" rel="noopener noreferrer">Latch</a>.
-At Relativity, I moved the team closer to first flight by designing the low voltage battery management system. At Latch, I designed a USB Debugger board for the firmware team and factory test stations.
 
-While at Penn, I spent a lot of my time with [Penn Electric Racing](../Penn-Electric-Racing) (PER), where I led the hardware team in designing, reviewing, and testing our custom printed circuit boards. It was my experience with PER that sparked my interest in electronics. In addition, I was the Head TA for Discrete Mathematics and also guided underclassmen through course selection, putting together this [document](/assets/WhyCMPE.pdf) detailing my thoughts about my major.
-
-In my free time, I like to play boardgames, bake, ski, and watch musicals!
+In my free time, I love boardgames, climbing, baking, skiing, and musicals!
 
 <!--
 <h2>Skills</h2>

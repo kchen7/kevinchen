@@ -1,7 +1,7 @@
 # main text of home
 # bio2 - to control what appeared on second line for header.html 
 name: Kevin Chen
-bio: Design Verification at Apple 
+bio: FPGA Verification at Hudson River Trading 
 bio2: University of Pennsylvania (EE, CMPE)
 
 # summary info, shows up when pasting link into messenger, slack, etc
@@ -15,7 +15,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: false
-resume-url: assets/KevinChen2024.4.pdf
+resume-url: assets/KevinChen2024.7.pdf
 
 # Note: both work, but the one set is the one that comes up when hovering over a url to press!
 # url: https://kchen7.github.io/kevinchen
